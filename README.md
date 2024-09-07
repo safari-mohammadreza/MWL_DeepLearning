@@ -24,3 +24,6 @@ Mental Workload (MWL) is a vital aspect of cognitive psychology and human-comput
 
 ## Sample Connectivity Image
 ![Sample Image](./files/high%20theta.png)
+
+## Published Paper:
+https://www.tandfonline.com/doi/full/10.1080/10255842.2024.2386325
